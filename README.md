@@ -3,8 +3,8 @@
 with="180"style="border-radius:50%">
 </p>
 
-<h1 align="center">👨‍💻 VICKY</h1>
-<h3 align="center">Powerful Ethical Hacker 🔥</h3>
+<h1 align="center">👨‍💻 JAYANTH</h1>
+<h3 align="center">Ethical Hacker 🔥</h3>
 ## 🌟 ABOUT ME
 
 - 💻 Code Architect & Innovator  
