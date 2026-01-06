@@ -24,6 +24,6 @@ with="180"style="border-radius:50%">
   href="https://jayanth33140@gmail.com">
   <img
 src="https://img.shields.io/badge/Gmail-red?logo=gmail">
-  <\a>
+ </a>
 </p>
 
