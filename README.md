@@ -18,8 +18,6 @@ with="180"style="border-radius:50%">
 </p>
 <p align="center">
   <a href="https://instagram.com/call__me__jay_">
-   <a href="jayanth33140@gmail.com">gmail</a>
-   <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram">
   </a>
 </p>
