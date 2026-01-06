@@ -21,7 +21,7 @@ with="180"style="border-radius:50%">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram">
   </a>
  <a
-  href="https://jayanth33140@gmail.com">
+  href="jayanth33140@gmail.com">
   <img
 src="https://img.shields.io/badge/Gmail-red?logo=gmail">
  </a>
