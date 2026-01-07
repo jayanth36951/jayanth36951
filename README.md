@@ -20,9 +20,9 @@ with="180"style="border-radius:50%">
   <a href="https://instagram.com/call__me__jay_">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram">
   </a>
- <a href="mailto:jayanth33140@gmail.com"><b>Gmail</b></a>
- 
+ <a href="mailto:jayanth33140@gmail.com">
  <img
 src="https://img.shields.io/badge/Gmail-red?logo=gamil">
+</a>
 </p>
 
