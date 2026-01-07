@@ -21,7 +21,8 @@ with="180"style="border-radius:50%">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram">
   </a>
  <a href="mailto:jayanth33140@gmail.com"><b>Gmail</b></a>
+ 
  <img
-  src="https://img.shields.io/badge/Gmail-red? logo=gamil">
+src="https://img.shields.io/badge/Gmail-red?logo=gamil">
 </p>
 
