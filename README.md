@@ -5,7 +5,7 @@ with="180"style="border-radius:50%">
 
 <h1 align="center">👨‍💻 JAYANTH</h1>
 <h3 align="center">Ethical Hacker 🔥</h3>
-## 🌟 ABOUT ME
+# 🌟 ABOUT ME 🌟 #
 
 - 💻 Code Architect & Innovator  
 - 🛡️ Ethical Hacker  
