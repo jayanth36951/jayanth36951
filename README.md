@@ -5,6 +5,9 @@ with="180"style="border-radius:50%">
 
 <h1 align="center">👨‍💻 JAYANTH</h1>
 <h3 align="center">Ethical Hacker 🔥</h3>
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
  # 🌟 ABOUT ME 🌟 #
 
 - 💻 Code Architect & Innovator  
