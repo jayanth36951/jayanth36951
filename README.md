@@ -12,9 +12,9 @@ with="180"style="border-radius:50%">
 
 - 💻 Code Architect & Innovator  
 - 🛡️ Ethical Hacker  
-- 🐍 Python Automation Specialist  
+- 🐍 Python programmer
 - 🐧 Linux user 
-- 🌐 | C  | Python |
+- 🌐 | Python |
 <p align="center">
   <img src="![mr-robot-safety-tips-featured](https://github.com/user-attachments/assets/37093c6c-a3be-42b0-b5e1-e34ce313c26a)">
 
